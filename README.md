@@ -10,7 +10,7 @@ https://fir-54c31.web.app/
 ```
 cd
 mkdir google-clone
-cd AndroidStudioProjects
+cd google-clone
 ```
 2. Clone this repository into AndroidStudioProjects.
 ```
